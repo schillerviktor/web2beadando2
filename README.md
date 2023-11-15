@@ -1,31 +1,41 @@
 # web2beadando2
 Készítsen egy weboldalt egy fiktív cég részére, amely a következő követelményeknek tesz eleget: 
-1.	Az első oldalon mutassa be a céget egy reszponzív weboldalon				(2 pont)
-2.													(4 pont)
+1.	Az első oldalon mutassa be a céget egy reszponzív weboldalon
+				
+2.
 a, alkalmazza az objektum-orientált PHP elveit
 b, a menüpontok neveit és a menüpontokhoz tartozó oldalak azonosítóját az adatbázisban tárolja,
 c, többszintes menürendszert megvalósít
 d, Regisztráció, Bejelentkezés: legalább „látogató”, „regisztrált látogató” és „admin” szerepkör el van különítve. 
-3.	Alkalmazzon a weboldalon egy Ajax megvalósítást az adatbázis adatai alapján.  A felhasználó 3 szöveges beviteli mezőben, vagy lenyíló listában megad adatokat és a rendszer az adatbázisból olvasva megjeleníti az adatokat Ajax megvalósítással. Olyan feladatot valósítson meg, amelyben az adatbázis mind a három táblájára szükség van.						(4 pont)
-4.	Készítsen egy Restful webszolgáltatást az adatbázisának egyik táblájához. Valósítsa meg a GET, POST, PUT, DELETE funkciókat. Készítsen a webszolgáltatáshoz egy klienst, amivel tudja tesztelni a szolgáltatást az egyik oldalon.			
-Tesztelje a webszolgáltatást a Postman API Platform-al is: https://www.postman.com/ 	(4 pont)
+
+4.	Alkalmazzon a weboldalon egy Ajax megvalósítást az adatbázis adatai alapján.  A felhasználó 3 szöveges beviteli mezőben, vagy lenyíló listában megad adatokat és a rendszer az adatbázisból olvasva megjeleníti az adatokat Ajax megvalósítással. Olyan feladatot valósítson meg, amelyben az adatbázis mind a három táblájára szükség van.
+
+5.	Készítsen egy Restful webszolgáltatást az adatbázisának egyik táblájához. Valósítsa meg a GET, POST, PUT, DELETE funkciókat. Készítsen a webszolgáltatáshoz egy klienst, amivel tudja tesztelni a szolgáltatást az egyik oldalon.			
+Tesztelje a webszolgáltatást a Postman API Platform-al is: https://www.postman.com/
 A dokumentációban mutassa be a tesztelés lépéseit.
-Keressen egy ingyenes Restful API-t. Készítsen klienst ehhez az API-hoz, amivel tesztelni tudja a GET, POST, PUT, DELETE funkciókat egy oldalon. 					(3 pont)
+Keressen egy ingyenes Restful API-t. Készítsen klienst ehhez az API-hoz, amivel tesztelni tudja a GET, POST, PUT, DELETE funkciókat egy oldalon. 	
 A dokumentációban mutassa be a tesztelés lépéseit.
-5.	Az egyik oldalon készítsen egy PDF készítő szolgáltatást a TCPDF segítségével. A felhasználó 3 szöveges beviteli mezőben, vagy lenyíló listában megad adatokat és a rendszer az adatbázisból olvasva készít egy letölthető PDF fájlt. Olyan feladatot valósítson meg, amelyben az adatbázis mind a három táblájára szükség van.								(3 pont)
-6.	Alkalmazzon egy oldalon egy objektum orientált JavaScript megvalósítást, 
-osztálydeklarációval (class)									(2 pont)
-7.	Az egyik oldalon készítsen egy grafikont az adatbázis adatai alapján. 			(4 pont)
+
+6.	Az egyik oldalon készítsen egy PDF készítő szolgáltatást a TCPDF segítségével. A felhasználó 3 szöveges beviteli mezőben, vagy lenyíló listában megad adatokat és a rendszer az adatbázisból olvasva készít egy letölthető PDF fájlt. Olyan feladatot valósítson meg, amelyben az adatbázis mind a három táblájára szükség van.		
+
+7.	Alkalmazzon egy oldalon egy objektum orientált JavaScript megvalósítást, 
+osztálydeklarációval (class)	
+
+8.	Az egyik oldalon készítsen egy grafikont az adatbázis adatai alapján. 
 Grafikonhoz javasolt a https://www.chartjs.org/ használata.
-8.	Alkalmazását töltse fel és valósítsa meg Internetes tárhelyen is. 				(4 pont)
+
+9.	Alkalmazását töltse fel és valósítsa meg Internetes tárhelyen is. 
 (Kötelező elem! A működés ez alapján lesz javítva)	Bármelyik tárhely-szolgáltatót használhatja.  URL címben szerepeljen a csoport egyik tagjának a neve.
-9.	Használják a GitHub (github.com) verziókövető rendszert. 				
+
+10.	Használják a GitHub (github.com) verziókövető rendszert. 				
 (Kötelező elem! A forrás ez alapján lesz javítva) 
 Ne csak a kész alkalmazást töltsék fel egy lépésben, hanem a részállapotokat is még legalább 5 lépésben személyenként.
 A GIT-en saját nevet válasszanak, ami alapján be lehet azonosítani, hogy ki mit töltött fel.
-10.	A GitHub-on a projektmunka módszert alkalmazzák: 				(2 pont)
+
+11.	A GitHub-on a projektmunka módszert alkalmazzák: 
 látszódjék, hogy a csoport tagjai melyik részt készítették el és kb. fele-fele arányban járuljanak hozzá a projekthez.
-11.	Készítsen egy legalább 10 oldalas dokumentációt képernyőképekkel(Kötelező elem!), amiben bemutatja alkalmazását és leírja, hogy az előző pontok feladatait hogyan valósította meg. Fontos, hogy ez utóbbit leírja a dokumentációban, mert a feladatot ez alapján fogom javítani. A dokumentációban adja meg a tárhely és a GitHub projektjének URL címét is és az Internetes tárhelyen az admin és egy másik felhasználó belépési adatait.						(3 pont)
+
+12.	Készítsen egy legalább 10 oldalas dokumentációt képernyőképekkel(Kötelező elem!), amiben bemutatja alkalmazását és leírja, hogy az előző pontok feladatait hogyan valósította meg. Fontos, hogy ez utóbbit leírja a dokumentációban, mert a feladatot ez alapján fogom javítani. A dokumentációban adja meg a tárhely és a GitHub projektjének URL címét is és az Internetes tárhelyen az admin és egy másik felhasználó belépési adatait.		
 
 ![Képernyőkép 2023-11-15 203431](https://github.com/schillerviktor/web2beadando2/assets/46298416/4e595e92-d0f2-49fd-b42a-58b939ad04ad)
 
