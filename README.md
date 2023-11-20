@@ -1,13 +1,14 @@
 ﻿# web2_2NJE
  
-![Képernyőkép 2023-11-15 203431](https://github.com/schillerviktor/web2beadando2/assets/46298416/302366ad-8cee-42a2-bf0b-26f7b761e96d)
 
-![Képernyőkép 2023-11-15 203505](https://github.com/schillerviktor/web2beadando2/assets/46298416/745f57f7-e710-4271-9191-a13b6bbd3d38)
+![Képernyőkép 2023-11-15 203431](https://github.com/schillerviktor/web2beadando2/assets/46298416/51e22615-4701-413f-bbe8-f5f951d2b327)
 
-![Képernyőkép 2023-11-15 203527](https://github.com/schillerviktor/web2beadando2/assets/46298416/1ca11130-afb0-4d16-a8fd-fa5f44f4defe)
+![Képernyőkép 2023-11-15 203505](https://github.com/schillerviktor/web2beadando2/assets/46298416/d7e0010c-694a-45c3-ae6b-d48ed270055b)
 
-![Képernyőkép 2023-11-15 203606](https://github.com/schillerviktor/web2beadando2/assets/46298416/0faf8cfe-859a-4461-b15c-f0b05d741529)
+![Képernyőkép 2023-11-15 203527](https://github.com/schillerviktor/web2beadando2/assets/46298416/ded6d4d9-996a-457d-9a5d-7da3bab25e1b)
 
-![Képernyőkép 2023-11-15 203630](https://github.com/schillerviktor/web2beadando2/assets/46298416/33736833-c401-46e7-8237-8fd9a27f34f8)
+![Képernyőkép 2023-11-15 203606](https://github.com/schillerviktor/web2beadando2/assets/46298416/0bb0ddf9-aa59-4775-9982-5be7930d4ef0)
 
-![Képernyőkép 2023-11-15 203650](https://github.com/schillerviktor/web2beadando2/assets/46298416/904ec49e-9f8c-4568-b635-ef09d5301d03)
+![Képernyőkép 2023-11-15 203630](https://github.com/schillerviktor/web2beadando2/assets/46298416/c36a082a-e79c-40f1-ba8c-3d1f341b8505)
+
+![Képernyőkép 2023-11-15 203650](https://github.com/schillerviktor/web2beadando2/assets/46298416/1e98c5b9-be7b-4be0-a5b9-0c5fbd73ad9c)
