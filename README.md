@@ -1,4 +1,6 @@
 ﻿# web2_2NJE
+
+ http://web2beadando2.hu/
  
 
 ![Képernyőkép 2023-11-15 203431](https://github.com/schillerviktor/web2beadando2/assets/46298416/51e22615-4701-413f-bbe8-f5f951d2b327)
